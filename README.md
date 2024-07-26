@@ -1,9 +1,9 @@
-Sure! Here is an updated README file with details about the `main.ts` and `app.module.ts` files:
-
-````markdown
 # Bageera API App
 
-The Bageera API App exposes a comprehensive set of endpoints that facilitate efficient data interaction and management. Whether your data resides in CSV files, SQL databases like MySQL, or data warehouses such as BigQuery, enabling you to harness the full potential of your data for insightful decision-making and business growth.
+The Bageera API App exposes a comprehensive set of endpoints that facilitate efficient data interaction \
+and management. Whether your data resides in CSV files, SQL databases like MySQL, \
+or data warehouses such as BigQuery, enabling you to harness the full potential of \
+your data for insightful decision-making and business growth.
 
 ## Table of Contents
 
@@ -93,4 +93,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This README provides a comprehensive overview of the project, explaining the structure, how to set up and use the application, key features like authentication and logging, and details about the main and app files to help engineers understand the application flow.
 ```
-````
